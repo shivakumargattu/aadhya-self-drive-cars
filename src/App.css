@@ -13,6 +13,9 @@
   }
 }
 
+.font-bold{
+  font-size: 20px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +38,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.bg-herosection{
+  background-image: url("https://www.canva.com/design/DAFxi4Yk69c/89olStjSuuVn_QqotsP42g/edit?utm_content=DAFxi4Yk69c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton");
 }
